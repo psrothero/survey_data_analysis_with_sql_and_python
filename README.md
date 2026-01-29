@@ -1,6 +1,6 @@
 # Survey Data Analysis with SQL & Python
 ## Overview
-This project analyzes survey responses using SQL for data extraction and Python for statistical analysis and visualization.
+This project analyses survey responses using SQL for data extraction and Python for statistical analysis and visualisation.
 
 ## Data
 Survey responses stored in CSV format, including numeric and categorical questions.
