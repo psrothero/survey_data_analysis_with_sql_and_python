@@ -16,4 +16,4 @@ Survey responses stored in CSV format, including numeric and categorical questio
 - Python (pandas, matplotlib, scipy)
 - Jupyter Notebook
 
-This project was completed as part of a guided DataCamp course and restructured for portfolio use.
+Based on a guided DataCamp project, with additional restructuring and implementation.
